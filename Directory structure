@@ -1,0 +1,14 @@
+aws-infra-automation/
+├── terraform/
+│   ├── main.tf
+│   ├── variables.tf
+│   ├── outputs.tf
+│   ├── ansible-install.sh
+├── ansible/
+│   ├── inventory
+│   ├── playbook.yml
+│   ├── java_jenkins.yml
+├── jenkins/
+│   ├── Jenkinsfile
+│   └── README.md
+├── README.md
